@@ -1,1 +1,1 @@
-hello my dev i am learn features 
+Hello, I’m Dev. I am learning features."
